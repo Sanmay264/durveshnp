@@ -1,10 +1,11 @@
  ### <h1 align="center">Hallo 👋, Ich bin Durvesh 👩‍💻</h1> 
 <h3 align="center">THIRD YEAR UNDERGRADUATE | ELECTRONICS ENGINEER | COMPUTER SCIENCE ENTHUSIAST</h3>
-<p align="left">I am third year undergraduate student at Walchand College Of Engineering, Sangli. A budding Competitive Programmer. I am interested in Web Development as well as Cloud Computing.</p><hr>
+<p align="left">I am third year undergraduate student at Walchand College Of Engineering, Sangli. A budding Competitive Programmer. I am interested in Web Development as well as Cloud Computing.</p><br>
 <h3>⚙️SKILLS</h3><hr>
 
 <img src="./img/c.png" width="50" height="50"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="./img/cpp.png" width="50" height="50"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="./img/python.png" width="50" height="50"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="./img/java.png" width="50" height="50"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="./img/html.png" width="50" height="50"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="./img/css.png" width="50" height="50"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="./img/bootstrap.png" width="50" height="50"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="./img/javascript.png" width="50" height="50"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="./img/jquery.png" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/git.png" width="50" height="50">
 
+<br>
 
 <h3>🎲INTERESTS</h3><hr>
 <ul>
@@ -14,6 +15,8 @@
   <li>Geography 🗺️</li>
   <li>Cartoon Sketching 🎨</li>
 </ul>
+
+<br>
 
 <h3>🌐CONNECT WITH ME</h3><hr>
 

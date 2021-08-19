@@ -17,9 +17,7 @@
 
 <h3>🌐CONNECT WITH ME</h3><hr>
 
-![image](https://user-images.githubusercontent.com/86490574/130101599-ad1b61bd-c7f6-4fed-9f45-837717f0c18b.png)
-![image](https://user-images.githubusercontent.com/86490574/130101743-9ea5a511-0c19-495c-8ad7-40a5d55307c6.png)
-
+<a href="https://www.linkedin.com/in/patildurvesh/"><img src="./img/linkedin.png" width="50" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://leetcode.com/durvesh_patil/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://auth.geeksforgeeks.org/user/durveshnp/practice/"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" width="50" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/durvesh_patil"><img src="./img/codechef.png" width="50" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/_durveshpatil/"><img src="./img/instagram.png" width="50" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.facebook.com/profile.php?id=100070425788581"><img src="./img/facebook.png" width="50" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp; 
 
 
 
